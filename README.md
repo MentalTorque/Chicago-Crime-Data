@@ -34,3 +34,5 @@ differently.  Both the Crime Type and District filters will impact the crime map
 <img src='Images/Chicago Crime Map Dashboard.png' width=50%>
 
 This is a larger version of the thumbnail map included on the Crime Analysis dashboard, for improved visibility and better tooltip clarity.
+
+The link to the dashboard on Tableau is:  https://github.com/MentalTorque/Chicago-Crime-Data/tree/main
